@@ -1,0 +1,14 @@
+[telegram]
+bot_token = "00"
+chat_id = 000
+
+[sites]
+urls = [
+    "https://example.com",
+    "https://google.com",
+]
+
+[settings]
+check_interval =300   # Интервал в секундах (5 минут)
+timeout = 10  # Таймаут запроса в секундах
+
